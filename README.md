@@ -5,7 +5,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sniper8RO-black)](https://github.com/Sniper8RO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dennis-cristian-baractaru-blue)](https://www.linkedin.com/in/dennis-cristian-baractaru/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/dennis-cristian-baractaru/)
 
   </span>
 
